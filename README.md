@@ -5,7 +5,7 @@ This project provides an in-depth analysis of customer churn using Excel. It inc
 ## **Overview**
 
 - **Objective**: To analyze customer churn data and provide insights using advanced Excel techniques.
-- **Dataset**: [Customer Churn Dataset](customers.csv) (Add dataset link if available).
+- **Dataset**: [Customer Churn Dataset](customer_data.csv) 
 - **Tools Used**: Microsoft Excel.
 
 ## **Key Highlights**
