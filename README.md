@@ -59,9 +59,9 @@ This project provides an in-depth analysis of customer churn using Excel. It inc
 
 ## **Dashboard**
 
-The interactive Excel dashboard consolidates key metrics, including churn rate, demographic breakdowns, and visualized insights.  
+The Excel dashboard consolidates key metrics, including churn rate, demographic breakdowns, and visualized insights.  
 
-[View the Excel Dashboard](#) (Add dashboard link if applicable)
+![Dashboard Screenshot](dashboard.png)
 
 ## **Future Improvements**
 
